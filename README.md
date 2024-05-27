@@ -1,8 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Rajasekar-red)](https://www.youtube.com/channel/UCiuT91zzQ84iDBfrLxixIZw)
 [![Linkedin Badge](https://img.shields.io/badge/-Rajasekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159)](https://www.linkedin.com/in/rajasekar-lokesh)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Rajasekar-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Github Badge](https://img.shields.io/badge/WebSite-Rajasekar-green)](https://github.com/RAJASEKAR-LOKESH)
 
 I'm
